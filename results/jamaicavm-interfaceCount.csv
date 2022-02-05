@@ -1,0 +1,9 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: firstMethod","Param: interfaceCount","Param: methodsPerInterface"
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,2296944.407858,37374.513317,"ops/s",false,1,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,93136.238258,1415.153147,"ops/s",false,1000,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,62360.269434,988.460795,"ops/s",false,1500,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,46507.021847,1455.486377,"ops/s",false,2000,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,36608.710241,1646.487408,"ops/s",false,2500,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,31341.023200,831.306958,"ops/s",false,3000,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,26830.245432,1374.382042,"ops/s",false,3500,1
+"benchmark.invokeinterface.InvokeInterfaceTest.test","thrpt",1,5,23747.816791,1363.243899,"ops/s",false,4000,1
